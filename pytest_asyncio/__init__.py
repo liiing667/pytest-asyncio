@@ -1,4 +1,7 @@
-"""The main point for importing pytest-asyncio items."""
+"""The main point for importing pytest-asyncio items.
+
+PYTEST_DONT_REWRITE
+"""
 
 from __future__ import annotations
 
